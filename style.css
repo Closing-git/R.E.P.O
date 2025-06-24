@@ -1,8 +1,16 @@
 h1 {
+<<<<<<< HEAD
     color: brown;
     font-weight: 900;
 }
 
 p {
     color: blue;
+=======
+    color:blue;
+}
+
+p {
+    color:brown;
+>>>>>>> ee1dd6ae742dd79631a8985ddf15df4f8a4254d3
 }
